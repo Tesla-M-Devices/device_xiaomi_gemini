@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "SlimRoms/device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "branch": "ng7.1"
+  }
+  {
+    "repository": "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "ng7.1"
+  }
+]
